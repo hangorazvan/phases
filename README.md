@@ -1,24 +1,27 @@
-# Magic Mirror Module: Moon phase
+# Moon phase
 
 [![Platform](https://img.shields.io/badge/platform-MagicMirror2-informational)](https://github.com/hangorazvan/MagicMirror2)
 [![CC-0 license](https://img.shields.io/badge/License-CC--4.0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 
-This [MagicMirror2] module allows you to fetch an image of the moon in its current phase
+Magic Mirror Module that displays the current moon phase with compliments
 
-Configure the module in your `config.js` file.
+
 
 ## Using the module
 
-There isn't much to configure really, you just need to position it and optionally set a suitable size for you via the config options.
-
-Now add the module to the modules array in the `config/config.js` file:
+Configure the module in your `config.js` file.
 
 
         modules: [
                 {
                         module: 'phase',
-                        position: 'top_center',        // this can be any of the regions
+                        position: 'top_center',
                         config: {
+                                updateInterval: 60 * 60 * 1000,
+                                animationSpeed: 1000,
+                                moonPhasesNightOnly: true,
+                                nightStart: "20:00:00",
+                                nightEnd: "07:00:00",
                                 width: "70",
                                 height: "70"
                         }
