@@ -5,7 +5,7 @@
 
 Magic Mirror Module that displays the current moon phase with compliments
 
-
+Based on Sven1603 / mmm-moon-phase-display and mykle1 / MMM-Lunartic images.
 
 ## Using the module
 
@@ -29,6 +29,8 @@ Configure the module in your `config.js` file.
         ]
 
 ## Compliments
+
+You need to use my compliments_plus to work with phases compliments https://github.com/hangorazvan/compliments_plus
 
         compliments: {
                 new_moon : [
