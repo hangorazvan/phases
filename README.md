@@ -12,6 +12,8 @@ Magic Mirror Module that displays the current moon phase with compliments
 
 Based on Sven1603 / mmm-moon-phase-display and mykle1 / MMM-Lunartic images.
 
+<img src=https://github.com/hangorazvan/phases/blob/master/phases.png>
+
 ## Using the module
 
 Configure the module in your `config.js` file.
