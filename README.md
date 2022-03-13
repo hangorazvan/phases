@@ -2,6 +2,9 @@
 
 [![Platform](https://img.shields.io/badge/platform-MagicMirror2-informational)](https://github.com/hangorazvan/MagicMirror2)
 [![CC-0 license](https://img.shields.io/badge/License-CC--4.0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+[![GitHub branches](https://badgen.net/github/branches/hangorazvan/phases)](https://github.com/hangorazvan/phases)
+[![GitHub forks](https://badgen.net/github/forks/hangorazvan/phases)](https://github.com/hangorazvan/phases)
+[![GitHub stars](https://badgen.net/github/stars/hangorazvan/phases)](https://github.com/hangorazvan/phases)
 
 Magic Mirror Module that displays the current moon phase with compliments
 
