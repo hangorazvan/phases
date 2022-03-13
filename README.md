@@ -6,6 +6,8 @@
 [![GitHub forks](https://badgen.net/github/forks/hangorazvan/phases)](https://github.com/hangorazvan/phases)
 [![GitHub stars](https://badgen.net/github/stars/hangorazvan/phases)](https://github.com/hangorazvan/phases)
 
+https://github.com/hangorazvan/phases
+
 Magic Mirror Module that displays the current moon phase with compliments
 
 Based on Sven1603 / mmm-moon-phase-display and mykle1 / MMM-Lunartic images.
