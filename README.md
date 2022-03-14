@@ -47,10 +47,10 @@ You need to use my compliments_plus to work with phases compliments https://gith
                         "<i class=\"pix wi-moon-waxing-crescent-4\"></i> <span class=\"txt\"> Waxing Crescent</span>",
                 ],
                 first_quarter : [
-                        "<i class=\"pix wi-moon-first-quarter\"></i> <span class=\"txt\"> Quarter</span>",
+                        "<i class=\"pix wi-moon-first-quarter\"></i> <span class=\"txt\"> First Quarter</span>",
                 ],
                 waxing_gibbous : [
-                        "<i class=\"pix wi-moon-waxing-gibbous-4\"></i> <span class=\"txt\"> Gibbous</span>",
+                        "<i class=\"pix wi-moon-waxing-gibbous-4\"></i> <span class=\"txt\"> Waxing Gibbous</span>",
                 ],
                 full_moon : [
                         "<i class=\"pix wi wi-moon-full\"></i> <span class=\"txt\"> Full Monn</span>",
